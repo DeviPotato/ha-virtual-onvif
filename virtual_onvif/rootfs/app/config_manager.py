@@ -99,7 +99,6 @@ class ConfigManager:
             'firmware_version': device_data.get('firmware_version', '1.0.0'),
             'motion_trigger_entity': device_data.get('motion_trigger_entity', ''),
             'door_trigger_entity': device_data.get('door_trigger_entity', ''),
-            'custom_events': device_data.get('custom_events', []),
             'enabled': device_data.get('enabled', True),
             'created_at': device_data.get('created_at', str(datetime.now())),
             'updated_at': str(datetime.now())
