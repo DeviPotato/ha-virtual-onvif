@@ -3,7 +3,7 @@ flask-cors==4.0.0
 requests==2.31.0
 lxml==4.9.3
 zeep==4.2.1
-suds-jurko==0.6
+suds==1.2.0
 netifaces==0.11.0
 python-onvif-zeep==0.2.12
 asyncio==3.4.3
