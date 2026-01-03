@@ -5,7 +5,7 @@ lxml==4.9.3
 zeep==4.2.1
 suds==1.2.0
 netifaces==0.11.0
-python-onvif-zeep==0.2.12
+onvif-zeep==0.2.12
 asyncio==3.4.3
 aiohttp==3.8.5
 websockets==11.0.3
