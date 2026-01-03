@@ -1,6 +1,6 @@
 name: "Virtual ONVIF Device"
 description: "Creates virtual ONVIF cameras with configurable streams and event injection"
-version: "1.0.4"
+version: "1.0.5"
 slug: "virtual_onvif"
 init: false
 arch:
